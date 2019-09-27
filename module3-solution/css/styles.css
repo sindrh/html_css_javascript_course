@@ -1,0 +1,39 @@
+.navbar-nav {
+    width: 100%;
+}
+
+.container-fluid {
+    width: 100%;
+}
+
+.navbar-collapse {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.navbar-nav {
+    border-top: 1px solid black;
+}
+
+.navbar-nav li {
+    border: 1px solid black;
+    border-top-style: hidden;
+    list-style-position: inside;
+}
+
+#nav-list {
+    background-color: #8fcc9f;
+    color: #bb0000;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#mytext {
+    background-color: #8fcc9f;
+    margin-top: 0;
+    min-height: 3000px;
+}
